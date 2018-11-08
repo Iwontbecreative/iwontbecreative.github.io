@@ -16,11 +16,8 @@ Previously, I did a double degree in France at [HEC Paris](http://www.hec.edu/Ma
 
 ### Publications
 
-* **Unsupervised Sentence Compression using Denoising Auto-Encoders**
-    
-    <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang
-    
-    Proceedings of the Conference on Computational Natural Language Learning (2018)
-    
+* **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
+    <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang  
+    Proceedings of the Conference on Computational Natural Language Learning (2018)  
     [Paper](https://arxiv.org/pdf/1809.02669.pdf) - [Code](https://github.com/zphang/usc_dae) - [Poster](files/poster_dae.pdf) - [NYU Blog](https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f)
 
