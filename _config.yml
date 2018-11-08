@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "iwontbecreative"
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "AI Scientist at BenevolentAI, NLP research at NYU"
   location         : "New York"
-  employer         : "BenevolentAI, NYU"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QjeNAUEAAAAJ"
   email            : "ThibaultFevry@gmail.com"
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Iwontbecreative"
+  github           : "iwontbecreative"
   google_plus      :
   keybase          :
   instagram        :
