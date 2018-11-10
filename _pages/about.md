@@ -12,9 +12,9 @@ I am an AI scientist at [BenevolentAI](https://benevolent.ai/) and a second-year
 
 I am interested in applying deep learning to Natural Language Understanding and Relation Inference on Knowledge Graphs.
 
-Previously, I did a double degree in France at [HEC Paris](http://www.hec.edu/Masters-programs/Master-s-Programs/Grande-Ecole/Master-in-Management/Key-Features) in Economics and Management and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) in Applied Math and Statistics. I also did internships at Morgan Stanley, Eleven Strategy and Younited Credit.
+Previously, I did a double degree in France between [HEC Paris](http://www.hec.edu/Masters-programs/Master-s-Programs/Grande-Ecole/Master-in-Management/Key-Features) (Management) and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). I also did internships at Morgan Stanley, Eleven Strategy and Younited Credit.
 
-### Publications
+## Publications
 
 * **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
     <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang  
