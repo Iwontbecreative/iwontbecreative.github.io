@@ -16,6 +16,10 @@ Previously, I did a double degree in France between [HEC Paris](http://www.hec.e
 
 ## Publications
 
+* **Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks**
+    <sup> * </sup>Jason Phang, <sup> * </sup> Thibault Févry, Sam Bowman
+    [Paper](https://arxiv.org/pdf/1811.01088v2.pdf) - [Code & Models](https://github.com/zphang/bert_on_stilts)    
+
 * **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
     <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang  
     Proceedings of the Conference on Computational Natural Language Learning (2018)  
