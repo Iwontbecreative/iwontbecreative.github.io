@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI scientist at [BenevolentAI](https://benevolent.ai/) and a second-year MS in Data Science at New York University in the [ML² group](https://wp.nyu.edu/ml2/) at [CILVR](https://wp.nyu.edu/cilvr/), working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
+I am an AI scientist at [BenevolentAI](https://benevolent.ai/). Previously, I did a MS in Data Science at New York University, conducting research in the [ML² group](https://wp.nyu.edu/ml2/) at [CILVR](https://wp.nyu.edu/cilvr/), working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
 
 I am interested in applying deep learning to Natural Language Understanding and Relation Inference on Knowledge Graphs.
 
