@@ -16,6 +16,14 @@ Previously, I did a double degree in France between [HEC Paris](http://www.hec.e
 
 ## Publications
 
+* **Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening**  
+    Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzebski,
+    **Thibault Févry**, Joe Katsnelson, Eric Kim, Stacey Wolfson, Ujas Parikh, Sushma Gaddam,
+     Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth,, Kristine Pysarenko,
+    Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim,
+    Laura Heacock, Linda Moy, Kyunghyun Cho, and Krzysztof J. Geras  
+    [Paper](https://arxiv.org/pdf/1903.08297.pdf) - [Code & Models](https://github.com/nyukat/breast_cancer_classifier)
+
 * **Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks**  
     <sup> * </sup>Jason Phang, <sup> * </sup> Thibault Févry, Sam Bowman  
     [Paper](https://arxiv.org/pdf/1811.01088v2.pdf) - [Code & Models](https://github.com/zphang/bert_on_stilts)    
