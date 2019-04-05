@@ -10,7 +10,7 @@ redirect_from:
 
 I am an AI scientist at [BenevolentAI](https://benevolent.ai/). Previously, I did a MS in Data Science at New York University, conducting research in the [ML² group](https://wp.nyu.edu/ml2/) at [CILVR](https://wp.nyu.edu/cilvr/), working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
 
-I am interested in applying deep learning to Natural Language Understanding and Relation Inference on Knowledge Graphs.
+I am interested in applying building strong general-purposes representations of language for NLU and NLP. I have also worked on deep learning for medical imaging.
 
 Previously, I did a double degree in France between [HEC Paris](http://www.hec.edu/Masters-programs/Master-s-Programs/Grande-Ecole/Master-in-Management/Key-Features) (Management) and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). I also did internships at Morgan Stanley, Eleven Strategy and Younited Credit.
 
@@ -22,7 +22,7 @@ Previously, I did a double degree in France between [HEC Paris](http://www.hec.e
      Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth,, Kristine Pysarenko,
     Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim,
     Laura Heacock, Linda Moy, Kyunghyun Cho, and Krzysztof J. Geras  
-    [Paper](https://arxiv.org/pdf/1903.08297.pdf) - [Code & Models](https://github.com/nyukat/breast_cancer_classifier)
+    [Paper](https://arxiv.org/pdf/1903.08297.pdf) - [Code & Models](https://github.com/nyukat/breast_cancer_classifier) - [Medium](https://medium.com/@jasonphang/deep-neural-networks-improve-radiologists-performance-in-breast-cancer-screening-565eb2bd3c9f)
 
 * **Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks**  
     <sup> * </sup>Jason Phang, <sup> * </sup> Thibault Févry, Sam Bowman  
