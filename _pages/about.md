@@ -33,7 +33,7 @@ Previously, I did a double degree in France between [HEC Paris](http://www.hec.e
     CoNLL 2018
     [Paper](https://arxiv.org/pdf/1809.02669.pdf) - [Code](https://github.com/zphang/usc_dae) - [Poster](files/poster_dae.pdf) - [NYU Blog](https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f)
     
-# Extended Abstracts / Workshop     
+## Extended Abstracts / Workshop     
     
 * **Improving localization-based approaches for breast cancer screening exam classification**  
     Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras  
