@@ -30,14 +30,14 @@ Previously, I did a double degree in France between [HEC Paris](http://www.hec.e
 
 * **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
     <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang  
-    CoNLL 2018
+    CoNLL 2018  
     [Paper](https://arxiv.org/pdf/1809.02669.pdf) - [Code](https://github.com/zphang/usc_dae) - [Poster](files/poster_dae.pdf) - [NYU Blog](https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f)
     
 ## Extended Abstracts / Workshop     
     
 * **Improving localization-based approaches for breast cancer screening exam classification**  
     Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras  
-    MIDL 2019 Extended Abstract
+    MIDL 2019 Extended Abstract  
     [Paper](https://openreview.net/forum?id=HyxoAR_AK4)
     
 
