@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI scientist at [BenevolentAI](https://benevolent.ai/). Previously, I did a MS in Data Science at New York University, conducting research in the [ML² group](https://wp.nyu.edu/ml2/) at [CILVR](https://wp.nyu.edu/cilvr/), working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
+I am an AI resident in the NYC language team of [Google AI](https://ai.google/). Previously, I was a research scientist at [BenevolentAI](https://benevolent.ai/) and did a MS in Data Science at New York University, conducting research in the [ML² group](https://wp.nyu.edu/ml2/) at [CILVR](https://wp.nyu.edu/cilvr/), working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
 
-I am interested in applying building strong general-purposes representations of language for NLU and NLP. I have also worked on deep learning for medical imaging.
+I am interested in building general-purpose representations of language for NLU. I have also worked on knowledge graphs and deep learning for medical imaging.
 
 Previously, I did a double degree in France between [HEC Paris](http://www.hec.edu/Masters-programs/Master-s-Programs/Grande-Ecole/Master-in-Management/Key-Features) (Management) and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). I also did internships at Morgan Stanley, Eleven Strategy and Younited Credit.
 
