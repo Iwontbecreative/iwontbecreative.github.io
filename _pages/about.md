@@ -36,15 +36,10 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
 
 * **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
     <sup> * </sup> Thibault Févry, <sup> * </sup>Jason Phang  
-    CoNLL 2018  
+    **CoNLL 2018**  
     [Paper](https://arxiv.org/pdf/1809.02669.pdf) - [Code](https://github.com/zphang/usc_dae) - [Poster](files/poster_dae.pdf) - [NYU Blog](https://medium.com/@NYUDataScience/unsupervised-sentence-compression-using-denoising-auto-encoders-6c979abd9d4f)
     
 #### Medical Imaging
-    
-* **Improving localization-based approaches for breast cancer screening exam classification**  
-    Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras  
-    MIDL 2019 Extended Abstract  
-    [Paper](https://openreview.net/forum?id=HyxoAR_AK4) - [Poster](files/fevry_improving_localization.pdf)
     
 * **Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening**  
     Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzebski,
@@ -55,6 +50,12 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     **IEEE Transactions of Medical Imaging, 2019**  
     **Best Paper @ICML 2019 AI for Social Good**  
     [Paper](https://arxiv.org/pdf/1903.08297.pdf) - [Code & Models](https://github.com/nyukat/breast_cancer_classifier) - [Poster](files/wu_icml_breast_cancer_poster.pdf) - [Medium](https://medium.com/@jasonphang/deep-neural-networks-improve-radiologists-performance-in-breast-cancer-screening-565eb2bd3c9f)
+    
+* **Improving localization-based approaches for breast cancer screening exam classification**  
+    Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras  
+    **MIDL 2019 Extended Abstract**  
+    [Paper](https://openreview.net/forum?id=HyxoAR_AK4) - [Poster](files/fevry_improving_localization.pdf)
+    
     
     
     
