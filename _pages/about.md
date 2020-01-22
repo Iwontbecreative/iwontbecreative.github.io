@@ -29,9 +29,14 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     
 #### Natural Language Processing
 
+* **Learning Cross-Context Entity Representations from Text**  
+    Jeffrey Ling, Nicholas FitzGerald, Zifei Shan, Livio Baldini Soares, Thibault Févry, David Weiss, Tom Kwiatkowski
+    2019  
+    [Paper](https://arxiv.org/pdf/2001.03765.pdf)
+
 * **Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks**  
     <sup> * </sup>Jason Phang, <sup> * </sup> Thibault Févry, Sam Bowman  
-    Preprint, 2018  
+    2018  
     [Paper](https://arxiv.org/pdf/1811.01088v2.pdf) - [Code & Models](https://github.com/zphang/bert_on_stilts)    
 
 * **Unsupervised Sentence Compression using Denoising Auto-Encoders**  
@@ -44,7 +49,7 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
 * **Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening**  
     Nan Wu, Jason Phang, Jungkyu Park, Yiqiu Shen, Zhe Huang, Masha Zorin, Stanisław Jastrzebski,
     Thibault Févry, Joe Katsnelson, Eric Kim, Stacey Wolfson, Ujas Parikh, Sushma Gaddam,
-     Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth,, Kristine Pysarenko,
+     Leng Leng Young Lin, Kara Ho, Joshua D. Weinstein, Beatriu Reig, Yiming Gao, Hildegard Toth, Kristine Pysarenko,
     Alana Lewin, Jiyon Lee, Krystal Airola, Eralda Mema, Stephanie Chung, Esther Hwang, Naziya Samreen, S. Gene Kim,
     Laura Heacock, Linda Moy, Kyunghyun Cho, and Krzysztof J. Geras, *Preprint*, 2018  
     **IEEE Transactions of Medical Imaging, 2019**  
@@ -55,9 +60,3 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     Thibault Févry, Jason Phang, Nan Wu, S. Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras  
     **MIDL 2019 Extended Abstract**  
     [Paper](https://openreview.net/forum?id=HyxoAR_AK4) - [Poster](files/fevry_improving_localization.pdf)
-    
-    
-    
-    
-
-
