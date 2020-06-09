@@ -32,12 +32,12 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
 * **Entities as experts: Sparse memory access with entity supervision**  
     Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi, Tom Kwiatkowski 
     2020  
-    [Paper](https://arxiv.org/pdf/2001.03765.pdf)
+    [Paper](https://arxiv.org/pdf/2004.07202.pdf)
 
 * **Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking**  
     <sup> * </sup> Thibault Févry, <sup> * </sup> Nicholas FitzGerald, Livio Baldini Soares, Tom Kwiatkowski 
     **AKBC 2020** 
-    [Paper](https://arxiv.org/pdf/2001.03765.pdf)
+    [Paper](https://arxiv.org/pdf/2005.14253.pdf)
 
 * **Learning Cross-Context Entity Representations from Text**  
     Jeffrey Ling, Nicholas FitzGerald, Zifei Shan, Livio Baldini Soares, Thibault Févry, David Weiss, Tom Kwiatkowski
