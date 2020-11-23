@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI resident in the NYC language group at [Google AI](https://ai.google/). 
+I am a researcher at Point72, applying NLP to financial data. 
 I am interested in building robust general-purpose representations of language
 for transfer learning. 
 
-Previously, I was a research scientist at [BenevolentAI](https://benevolent.ai/) 
-and did a MS in Data Science at New York University, 
-conducting research in the [ML² group](https://wp.nyu.edu/ml2/) 
+Previously, I was an AI Resident at Google Research NYC, working on NLP and before that a research scientist at [BenevolentAI](https://benevolent.ai/) 
+I hold a MS in Data Science from New York University, 
+where I conducted research in the [ML² group](https://wp.nyu.edu/ml2/) 
 at [CILVR](https://wp.nyu.edu/cilvr/), 
 working with [Sam Bowman](https://www.nyu.edu/projects/bowman/). 
 I have also worked on Computer Vision for Medical Imaging with 
@@ -29,14 +29,20 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     
 #### Natural Language Processing
 
+* **Rethinking embedding coupling in pre-trained language models**  
+    <sup> * </sup> Hyung Won Chung, <sup> * </sup> Thibault Févry, Henry Tsai, Melvin Johnson, Sebastian Ruder  
+    2020  
+    [Paper](https://arxiv.org/pdf/2004.07202.pdf)
+
 * **Entities as experts: Sparse memory access with entity supervision**  
     Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi, Tom Kwiatkowski 
     2020  
+    EMNLP 2020  
     [Paper](https://arxiv.org/pdf/2004.07202.pdf)
 
 * **Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking**  
     <sup> * </sup> Thibault Févry, <sup> * </sup> Nicholas FitzGerald, Livio Baldini Soares, Tom Kwiatkowski 
-    **AKBC 2020** 
+    **AKBC 2020**  
     [Paper](https://arxiv.org/pdf/2005.14253.pdf)
 
 * **Learning Cross-Context Entity Representations from Text**  
