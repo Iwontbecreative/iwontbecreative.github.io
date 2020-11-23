@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thibault Févry"
 title_separator          : "-"
 name                     : &name "Thibault Févry"
-description              : &description "AI Resident at Google"
+description              : &description "NLP Researcher"
 url                      : https://iwontbecreative.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iwontbecreative.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thibault Févry"
   avatar           : "photo.jpg"
-  bio              : "AI Resident at GoogleAI"
+  bio              : "NLP Researcher"
   location         : "New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QjeNAUEAAAAJ"

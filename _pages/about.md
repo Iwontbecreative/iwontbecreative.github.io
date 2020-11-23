@@ -12,7 +12,7 @@ I am a researcher at Point72, applying NLP to financial data.
 I am interested in building robust general-purpose representations of language
 for transfer learning. 
 
-Previously, I was an AI Resident at Google Research NYC, working on NLP and before that a research scientist at [BenevolentAI](https://benevolent.ai/) 
+Previously, I was an AI Resident at Google Research NYC, working on NLP and before that a research scientist at [BenevolentAI](https://benevolent.ai/). 
 I hold a MS in Data Science from New York University, 
 where I conducted research in the [ML² group](https://wp.nyu.edu/ml2/) 
 at [CILVR](https://wp.nyu.edu/cilvr/), 
