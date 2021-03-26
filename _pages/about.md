@@ -29,6 +29,11 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     
 #### Natural Language Processing
 
+* **Do Transformer Modifications Transfer Across Implementations and Applications?**  
+  Sharan Narang, Hyung Won Chung, Yi Tay, William Fedus, Thibault Févry, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel  
+  2021  
+  [Paper](https://arxiv.org/abs/2102.11972)
+
 * **Rethinking embedding coupling in pre-trained language models**  
     <sup> * </sup> Hyung Won Chung, <sup> * </sup> Thibault Févry, Henry Tsai, Melvin Johnson, Sebastian Ruder  
     2020  
@@ -39,12 +44,12 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi, Tom Kwiatkowski 
     2020  
     **EMNLP 2020**  
-    [Paper](https://arxiv.org/pdf/2004.07202.pdf)
+    [Paper](https://arxiv.org/pdf/2004.07202.pdf) - [Talk](https://virtual.2020.emnlp.org/paper_main.1528.html)
 
 * **Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking**  
     <sup> * </sup> Thibault Févry, <sup> * </sup> Nicholas FitzGerald, Livio Baldini Soares, Tom Kwiatkowski  
     **AKBC 2020**  
-    [Paper](https://arxiv.org/pdf/2005.14253.pdf)
+    [Paper](https://arxiv.org/pdf/2005.14253.pdf) - [Talk](https://papertalk.org/papertalks/7439)
 
 * **Learning Cross-Context Entity Representations from Text**  
     Jeffrey Ling, Nicholas FitzGerald, Zifei Shan, Livio Baldini Soares, Thibault Févry, David Weiss, Tom Kwiatkowski
