@@ -29,8 +29,14 @@ and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
     
 #### Natural Language Processing
 
+* **Multitask Prompted Training Enables Zero-Shot Task Generalization**    
+  Victor Sanh, Albert Webson, Colin Raffel, Stephen H Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Stella Biderman, Leo Gao, Tali Bers, Thomas Wolf, Alexander M Rush  
+  2021   
+  [Paper](https://arxiv.org/abs/2110.08207)
+
 * **Do Transformer Modifications Transfer Across Implementations and Applications?**  
   Sharan Narang, Hyung Won Chung, Yi Tay, William Fedus, Thibault Févry, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel  
+  **EMNLP 2020**  
   2021  
   [Paper](https://arxiv.org/abs/2102.11972)
 
