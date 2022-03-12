@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Point72, applying NLP to financial data. 
-I am interested in building robust general-purpose representations of language
-for transfer learning. 
+I am a Quant Research Lead at Point72, applying NLP to financial data. 
 
 Previously, I was an AI Resident at Google Research NYC, working on NLP and before that a research scientist at [BenevolentAI](https://benevolent.ai/). 
 I hold a MS in Data Science from New York University, 
@@ -23,16 +21,23 @@ I have also worked on Computer Vision for Medical Imaging with
 
 Before that, I did a double degree in France between 
 [HEC Paris](http://www.hec.edu/Masters-programs/Master-s-Programs/Grande-Ecole/Master-in-Management/Key-Features) (Management) 
-and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). I also did internships at Morgan Stanley, Eleven Strategy and Younited Credit.
-
+and [ENSAE ParisTech](http://www.ensae.fr/en/engineering-degree/) (Statistics). 
 ## Publications
     
 #### Natural Language Processing
 
+
+* **PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts**
+    Stephen H Bach, Victor Sanh, Zheng-Xin Yong, Albert Webson, Colin Raffel, Nihal V Nayak, Abheesht Sharma, Taewoon Kim, M Saiful Bari, Thibault Févry, Zaid Alyafeai, Manan Dey, Andrea Santilli, Zhiqing Sun, Srulik Ben-David, Canwen Xu, Gunjan Chhablani, Han Wang, Jason Alan Fries, Maged S Al-shaibani, Shanya Sharma, Urmish Thakker, Khalid Almubarak, Xiangru Tang, Mike Tian-Jian Jiang, Alexander M Rush 
+    **ACL 2022** 
+    2022 
+    [Paper](https://arxiv.org/abs/2202.01279) - [Code](https://github.com/bigscience-workshop/promptsource)
+
 * **Multitask Prompted Training Enables Zero-Shot Task Generalization**    
-  Victor Sanh, Albert Webson, Colin Raffel, Stephen H Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Stella Biderman, Leo Gao, Tali Bers, Thomas Wolf, Alexander M Rush  
-  2021   
-  [Paper](https://arxiv.org/abs/2110.08207)
+    Victor Sanh, Albert Webson, Colin Raffel, Stephen H Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma Sharma, Eliza Szczechla, Taewoon Kim, Gunjan Chhablani, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Févry, Jason Alan Fries, Ryan Teehan, Stella Biderman, Leo Gao, Tali Bers, Thomas Wolf, Alexander M Rush  
+    **ICLR 2022, Spotlight** 
+    2021    
+    [Paper](https://arxiv.org/abs/2110.08207) - [Code & Demo](https://huggingface.co/bigscience/T0pp) 
 
 * **Do Transformer Modifications Transfer Across Implementations and Applications?**  
   Sharan Narang, Hyung Won Chung, Yi Tay, William Fedus, Thibault Févry, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel  
